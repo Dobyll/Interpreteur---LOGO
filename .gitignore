@@ -1,0 +1,13 @@
+_build/
+*.cmo
+*.cmi
+*.cmx
+*.cma
+*.cmxa
+*.o
+*.a
+*.byte
+*.native
+*.out
+.idea/
+.vscode/

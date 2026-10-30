@@ -1,0 +1,3 @@
+Efface ;
+Avance 150 ; Gauche 90 ; Avance 100; Dessine ;
+Repete 5 [Deplace ; Avance 160; Dessine; Repete 6 [Avance 100; Droite 144]] .

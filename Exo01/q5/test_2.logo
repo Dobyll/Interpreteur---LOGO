@@ -1,0 +1,6 @@
+Efface ;
+Avance 150 ; Gauche 90 ; Avance 200; Dessine ;
+Def taille 100 ; Def demitaille 50 ;
+Avance :taille ; Recule :demitaille ; Droite 90 ;
+Avance :demitaille ; Droite 90 ;
+Avance :demitaille ; Recule :taille .
